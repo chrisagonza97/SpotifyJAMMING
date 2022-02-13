@@ -1,4 +1,4 @@
-# Sortitt
+# Spotify Playlist creator
  A react web app that uses spotify api to make spotify playlists
 Uses react.js for front end
 Uses Spotify Api calls to search songs, and save searched songs onto a playlist
